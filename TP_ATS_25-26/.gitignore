@@ -1,0 +1,36 @@
+# Maven build output
+Projeto1/SpotifyUM/target/
+
+# Gradle build output
+Projeto2/build/
+Projeto2/bin/
+Projeto2/.gradle/
+
+# EvoSuite JAR alternativo (não usado)
+tools/evosuite.jar
+
+# EvoSuite output temporário
+evosuite-tests/
+evosuite-report/
+.evosuite/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Hypothesis cache (Property-Based Testing)
+.hypothesis/
+.claude/
+
+# Python bytecode
+tools/__pycache__/
+**/__pycache__/
+*.pyc
+
+# Dados serializados gerados em runtime
+Projeto2/data/serial/
+
+# OS
+.DS_Store
+Thumbs.db
