@@ -1,5 +1,7 @@
 # Análise e Teste de Software — Trabalho Prático 2025/2026
 
+**Nota:** 17,5
+
 **Universidade do Minho — Licenciatura em Engenharia Informática**
 
 ## Grupo
@@ -90,3 +92,4 @@ make all    # tudo
 ```bash
 make clean
 ```
+
